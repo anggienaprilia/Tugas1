@@ -10,19 +10,16 @@
 <br>1. Kelas <i>(Class)</i></br>
 Class adalah <u><i>blueprint</i> atau template yang digunakan untuk membuat objek</u>. Class mendefinisikan atribut <i>(properties)</i> dan metode <i>(methods)</i> yang dimiliki oleh objek yang dibuat dari class tersebut.
 ![image](https://github.com/user-attachments/assets/73016302-b8f6-4ea8-8bf6-e66de7ae0baa)
-
 </p>
 2. Objek <i>(Object)</i>
 <br>Objek adalah <u>instansi dari sebuah class</u>.</br>
 ![objek](https://github.com/user-attachments/assets/af0bcfb1-6c85-46c7-ac60-7d50e15a1a97)
 </p>
-
 <p>
 3. Atribut <i>(Properti)</i>
 <br>Atribut adalah variabel yang didefinisikan dalam sebuah <u>class dan keadaan dari objek</u> yang dibuat dari class tersebut.</br>
 ![image](https://github.com/user-attachments/assets/c2041d89-12ef-4ed5-bad6-9a1a2a57e058)
 </p>
-
 <p>
 4. Metode <i>(Method)</i>
 <br>Metode adalah <u>fungsi yang didefinisikan atau dilakukan di dalam sebuah class</u>.</br>
