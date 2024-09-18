@@ -46,8 +46,8 @@ c) Keamanan dan integritas data.<br>
 </p>
 2. <i>Inheritance</i> (Pewarisan):
 <br>Prinsip dalam Object-Oriented Programming (OOP) yang memungkinkan <u>sebuah class untuk mewarisi properti (atribut) dan metode dari class lain.</u></br>
-![inherit-1](https://github.com/user-attachments/assets/6f1a2ca2-a5ee-457f-9433-a8cff9bb3df7)
-![inherit-2](https://github.com/user-attachments/assets/59ca123a-ef12-46f8-b729-88032ac2bd8c)
+<br>![inherit-1](https://github.com/user-attachments/assets/6f1a2ca2-a5ee-457f-9433-a8cff9bb3df7)
+<br>![inherit-2](https://github.com/user-attachments/assets/59ca123a-ef12-46f8-b729-88032ac2bd8c)
 <br>Konsep utama Inheritance</br>
 - Single Inheritance. <br>
 - Hierarchical Inheritance. <br>
