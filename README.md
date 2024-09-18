@@ -112,5 +112,126 @@ b) Metode Overloading.<br>
 <br>Pada coding diatas, metode getter (get) digunakan untuk mendapatkan data dari judul (properti/atribut) dalam kelas Buku, dan metode setter (set) digunakan untuk menetapkan atau mengubah nilai(value) dari properti judul. 
 
 <br>Penjelasannya:
-- $buku1 = new Buku("Pemrograman PHP", "Andi Prasetyo"); => Menunjukkan bahwa terdapat penambahan objek bernama 'buku1' pada kelas 'Buku' dengan nilai
+- $buku1 = new Buku("Pemrograman PHP", "Andi Prasetyo"); => Menunjukkan bahwa terdapat penambahan objek bernama 'buku1' pada kelas 'Buku' dengan nilai (value) untuk properti judul berisi Pemrograman PHP, dan properti penulis berisi Andi Prasetyo.
+- echo $buku->getJudul(); => Menunjukkan metode getJudul() dipanggil pada objek $buku1. Metode getJudul() ini akan mengembalikan judul buku, sehingga yang akan ditampilkan dari pemanggilan meotde ini adalah nilai judul buku yaitu Pemrograman PHP.
 <br>
+<hr>
+
+# Jobsheet1
+<b>Instruksi Kerja</b>
+![image](https://github.com/user-attachments/assets/231a043c-8a1d-499c-b35d-3fae0629a94e)
+
+<br><b>Coding instruksi kerja</b>
+![image](https://github.com/user-attachments/assets/54b26bcf-150b-4969-8dac-6f563af30ce6)
+![image](https://github.com/user-attachments/assets/3b6b5f0d-5978-44ca-9d10-2050aa7db612)
+
+<b>Output instruksi kerja</b>
+![image](https://github.com/user-attachments/assets/2a89074d-75b7-48b4-a456-6cb047f354a8)
+
+<b>Tugas jobsheet 1</b>
+![image](https://github.com/user-attachments/assets/ad0cf76a-8c15-4e11-ac6e-cb7a8727a8af)
+
+<b>Output tugas jobsheet 1</b>
+![image](https://github.com/user-attachments/assets/41729448-7d1e-4104-b799-a982633f61de)
+
+# Jobsheet2
+![image](https://github.com/user-attachments/assets/b27188ba-10f7-4867-9381-e2fc2eae9fb0)
+
+<br><b>Coding No 1. Membuat Class dan Object</b>
+![image](https://github.com/user-attachments/assets/1bf79eb5-4417-4bf3-8e79-87c0f1ff4ecf)
+
+<b>Output No. 1</b>
+![image](https://github.com/user-attachments/assets/1ca791be-663f-49aa-ab7d-c41be433e021)
+
+<br><b>Coding No 2. Encapsulation</b>
+![image](https://github.com/user-attachments/assets/5e2c4b6e-98c5-48d5-a06f-5f7a3c208459)
+![image](https://github.com/user-attachments/assets/3d1de7f9-7b26-4542-8326-4e0c4d5ef88a)
+![image](https://github.com/user-attachments/assets/00e3c143-b6d9-4406-a7ea-ba638bf0e3b1)
+
+<b>Output No. 2</b>
+![image](https://github.com/user-attachments/assets/9dd840fd-400a-42ad-8e4d-8dda36e2bc1d)
+
+<br><b>Coding No 3. Inheritance</b>
+![image](https://github.com/user-attachments/assets/86a33fac-7555-46b2-860e-107da87276a0)
+![image](https://github.com/user-attachments/assets/b2286ebb-14ba-40a3-a938-96b2c1ad7bb3)
+
+<b>Output No. 3</b>
+![image](https://github.com/user-attachments/assets/105b6421-179e-43eb-8612-6796f872857c)
+
+<br><b>Coding No 4. Polymorphism</b>
+![image](https://github.com/user-attachments/assets/09925b78-47cc-4a96-a328-39c190714ef3)
+![image](https://github.com/user-attachments/assets/31d3b7cc-1ca9-41fe-8b8a-d947c38fd4f4)
+
+<b>Output No. 4</b>
+![image](https://github.com/user-attachments/assets/56aee421-f93c-45a1-9d54-cb172744e011)
+
+<br><b>Coding No 5. Abstraction</b>
+![image](https://github.com/user-attachments/assets/17560eb1-635e-4233-850a-2ea53726b355)
+![image](https://github.com/user-attachments/assets/66664dff-69ad-450f-bd7a-d1567422a8a7)
+
+<b>Output No. 5</b>
+![image](https://github.com/user-attachments/assets/2ed909c3-fd21-4518-b268-cf875292cf3e)
+
+# Jobsheet3
+![image](https://github.com/user-attachments/assets/edad03ac-9472-4100-b8c3-c3625a600f2a)
+![image](https://github.com/user-attachments/assets/99cbca72-4c49-4b18-8d33-2e786d40c132)
+
+<b>Tugas jobsheet 3 - 1. Inheritance dan Polymorphism</b>
+- <i>Class Person</i>
+![image](https://github.com/user-attachments/assets/7d58007d-1434-4c90-9479-0ceaef1dc9bd)
+- <i>Class Student</i> mewarisi Class Person
+![image](https://github.com/user-attachments/assets/9d0e704d-3e30-44d6-85e4-0d01eb3a0309)
+![image](https://github.com/user-attachments/assets/92c6f4d0-6ba2-45e1-b1dc-6e7644182b77)
+- <i>Class Teacher</i> mewarisi Class Person
+![image](https://github.com/user-attachments/assets/03b9b3de-a365-459b-b9f5-91417ee2bf73)
+![image](https://github.com/user-attachments/assets/a1123020-0e4e-4657-8f51-a93154c64ff5)
+
+<b>Demonstrasi Inheritance dan Polymorphism </b>
+![image](https://github.com/user-attachments/assets/c8316769-56c0-485b-b03d-0bfc19df59e1)
+
+<b>Output Inheritance dan Polymorphism </b>
+![image](https://github.com/user-attachments/assets/72f5b828-2a0e-4989-a77a-5607c9252f81)
+
+<b>Tugas jobsheet 3 - 2. Abstraction</b>
+- <i>Class Course</i>
+![image](https://github.com/user-attachments/assets/bf8b53d5-b5b7-4c56-b997-ee76ef7d3b8e)
+- <i>Class OnlineCourse mewarisi Class Course</i>
+![image](https://github.com/user-attachments/assets/6b96909a-af2b-4386-9300-e46a8c8eccc3)
+- <i>Class OfflineCourse mewarisi Class Course </i>
+![image](https://github.com/user-attachments/assets/4f265efc-7096-4406-9318-18abba029771)
+
+<b>Demonstrasi Abstraction</b>
+![image](https://github.com/user-attachments/assets/d2a16faa-ca92-4c29-b87e-0a0be156f446)
+
+<b>Output Abstraction</b>
+![image](https://github.com/user-attachments/assets/23331854-52a3-48a1-ae67-00038ac50ed7)
+
+<b>Tugas jobsheet 3 - 3. Encapsulation dan Inheritance</b>
+- <i>Class Dosen mewarisi Class Teacher</i>
+![image](https://github.com/user-attachments/assets/cf401ab1-b878-45d1-8421-d9e7537a06e0)
+
+- <i>Class Mahasiswa mewarisi Class Student</i>
+![image](https://github.com/user-attachments/assets/49e92c6a-b6c4-4173-b130-8b58e610d56e)
+
+<b>Demonstrasi Encapsulation</b>
+![image](https://github.com/user-attachments/assets/03ba8384-e7b7-4ac1-9635-820ca734ba13)
+
+<b>Output Encapsulation</b>
+![image](https://github.com/user-attachments/assets/3f581a4b-26bf-4ade-975f-c26f342c6d0f)
+
+<b>Tugas jobsheet 3 - 4. Abstraction jurnal</b>
+- <i>Class abstrak Jurnal</i>
+![image](https://github.com/user-attachments/assets/d4c3a6ec-74c1-4a76-8ddb-93269daabeca)
+
+- <i>Class JurnalDosen mewarisi Class Jurnal</i>
+![image](https://github.com/user-attachments/assets/9e0eb7db-f6cd-454b-9b8d-309287caa5aa)
+
+- <i>Class JurnalMahasiswa mewarisi Class Jurnal</i>
+![image](https://github.com/user-attachments/assets/6fa2d701-d699-4722-aa9a-3266b9738d8c)
+
+<b>Demonstrasi Abstraction jurnal</b>
+![image](https://github.com/user-attachments/assets/a70aa7e7-bc12-4b3b-970a-dda953963007)
+
+<b>Output Abstraction jurnal</b>
+![image](https://github.com/user-attachments/assets/7e4612e0-22bd-44af-94c4-0f3f1f1351a6)
+<hr>
