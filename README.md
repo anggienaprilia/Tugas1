@@ -1,2 +1,30 @@
-# Tugas1
-Tugas Web 2 (Jobsheet)
+<H3><b><u>Pemrograman Berorientasi Objek (OOP)</u></b></H3>
+
+<p>Object-Oriented Programming (OOP) adalah paradigma pemrograman yang berfokus pada konsep objek. Penggunaan kelas dan objek adalah inti dari pemrograman berorientasi objek (OOP).</p>
+
+<p> Dalam PHP, kelas digunakan untuk mendefinisikan struktur dan perilaku objek, sedangkan objek adalah instansiasi dari kelas tersebut.</p>
+
+<p>Prinsip prinsip dasar OOP termasuk Encapsulation, Inheritance, Polymorphism, dan Abstraction yang memungkinkan kode lebih modular, terstruktur, dan mudah dipelihara.</p>
+
+<b>Konsep dasar OOP</b>
+<br>1. Kelas <i>(Class)</i></br>
+Class adalah <u><i>blueprint</i> atau template yang digunakan untuk membuat objek</u>. Class mendefinisikan atribut <i>(properties)</i> dan metode <i>(methods)</i> yang dimiliki oleh objek yang dibuat dari class tersebut.
+
+</p>
+2. Objek <i>(Object)</i>
+<br>Objek adalah <u>instansi dari sebuah class</u>.</br>
+</p>
+
+<p>
+3. Atribut <i>(Properti)</i>
+<br>Atribut adalah variabel yang didefinisikan dalam sebuah <u>class dan keadaan dari objek</u> yang dibuat dari class tersebut. Dalam atribut terdapat <u>3 jenis Aksesibilitas <i>(Visibility)</i></u> yang biasa digunakan, diantaranya adalah:
+<li>Public: Dapat diakses dari mana saja.</li>
+<li>Private: Hanya dapat diakses dalam kelas itu sendiri.</li>
+<li>Protected: Dapat diakses oleh kelas itu sendiri dan kelas turunannya.</li></br>
+</p>
+
+<p>
+4. Metode <i>(Method)</i>
+Metode adalah fungsi yang didefinisikan atau dilakukan di dalam sebuah class.
+</p>
+
