@@ -4,7 +4,7 @@ Kelas  : TI 2D <br>
 NPM    : 230202074
 </b>
 
-<h2><b><u>Pemrograman Berorientasi Objek (OOP)</u></b></h2>
+# Pemrograman Berorientasi Objek (OOP)
 
 <p>Object-Oriented Programming (OOP) adalah paradigma pemrograman yang berfokus pada konsep objek. Penggunaan kelas dan objek adalah inti dari pemrograman berorientasi objek (OOP).</p>
 
