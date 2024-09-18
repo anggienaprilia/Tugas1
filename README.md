@@ -47,14 +47,14 @@ Class adalah <u><i>blueprint</i> atau template yang digunakan untuk membuat obje
 Prinsip ini bertujuan untuk <u>membungkus data (atribut) dan metode (fungsi) yang memanipulasi data tersebut</u> dalam satu unit yang disebut class, serta mengontrol akses ke data tersebut. Enkapsulasi memungkinkan pengguna untuk membatasi akses langsung ke atribut dari luar class, dengan menyediakan mekanisme yang aman dan terkontrol untuk mengakses dan mengubah nilai atribut.</br>
 
 ![enkap-1](https://github.com/user-attachments/assets/c8e5143b-1d56-4166-a5aa-ec4840ea37cb) <br>
-![enkap-2](https://github.com/user-attachments/assets/cfdb4947-41e5-4609-8c2c-1a362c7bacbd)
+![enkap-2](https://github.com/user-attachments/assets/cfdb4947-41e5-4609-8c2c-1a362c7bacbd) <br>
 
-<br>Tujuan Utama Enkapsulasi<br>
+Tujuan Utama Enkapsulasi<br>
 a) Menyembunyikan detail implementasi.<br>
 b) Mencegah manipulasi data yang tidak diinginkan.<br>
 c) Keamanan dan integritas data.<br>
 
-<br>Tingkat akses dalam Enkapsulasi<br>
+Tingkat akses dalam Enkapsulasi<br>
 - Public: Dapat diakses dari mana saja.<br>
 - Private: Hanya dapat diakses dalam kelas itu sendiri.<br>
 - Protected: Dapat diakses oleh kelas itu sendiri dan kelas turunannya.
@@ -64,9 +64,9 @@ c) Keamanan dan integritas data.<br>
 <br>Prinsip dalam Object-Oriented Programming (OOP) yang memungkinkan <u>sebuah class untuk mewarisi properti (atribut) dan metode dari class lain.</u></br>
 
 ![inherit-1](https://github.com/user-attachments/assets/6f1a2ca2-a5ee-457f-9433-a8cff9bb3df7) <br>
-![inherit-2](https://github.com/user-attachments/assets/59ca123a-ef12-46f8-b729-88032ac2bd8c)
+![inherit-2](https://github.com/user-attachments/assets/59ca123a-ef12-46f8-b729-88032ac2bd8c) <br>
 
-<br>Konsep utama Inheritance</br>
+Konsep utama Inheritance</br>
 - Single Inheritance. <br>
 - Hierarchical Inheritance. <br>
 - Multilevel Inheritance. <br>
@@ -77,23 +77,23 @@ c) Keamanan dan integritas data.<br>
 3. <i>Polymorphism</i> (Polimorfisme):
 <br>Prinsip dalam Object-Oriented Programming (OOP) memungkinkan <u>objek dari class yang berbeda untuk merespons metode yang sama dengan cara yang berbeda.</u></br>
 
-<br>Jenis Polymorphism<br>
+Jenis Polymorphism<br>
 a) Metode Overriding.<br>
 b) Metode Overloading.<br>
 
 ![poly-1](https://github.com/user-attachments/assets/f9bcac71-710c-49d5-b1c3-1d5b77e50284) <br>
 ![poly-2](https://github.com/user-attachments/assets/435e9324-3a66-4dad-bfb8-f90b63beb645) <br>
 ![poly-3](https://github.com/user-attachments/assets/8d4e5d4b-46be-405f-b0d6-c30d458eb496)
-<p>
+</p>
 
 <p>
 4. <i>Abstraction</i> (Abstraksi):
 <br> Prinsip yang bertujuan untuk <u>menyembunyikan detail implementasi yang tidak diperlukan</u> dan hanya menampilkan aspek-aspek penting atau antarmuka kepada pengguna.</br>
 
 ![abstrak-1](https://github.com/user-attachments/assets/dfb163b6-3221-4e4b-aff5-c36cf222af49) <br>
-![abstrak-2](https://github.com/user-attachments/assets/ca955f75-7e8b-4646-8525-dcb59bd90998)
+![abstrak-2](https://github.com/user-attachments/assets/ca955f75-7e8b-4646-8525-dcb59bd90998) <br>
 
-<br>Tujuan Abstraksi</br>
+Tujuan Abstraksi</br>
 - Menyederhanakan kompleksitas. <br>
 - Memisahkan antarmuka dari implementasi. <br>
 - Mengurangi duplikasi kode.
