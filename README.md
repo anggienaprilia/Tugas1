@@ -14,6 +14,7 @@ Class adalah <u><i>blueprint</i> atau template yang digunakan untuk membuat obje
 </p>
 2. Objek <i>(Object)</i>
 <br>Objek adalah <u>instansi dari sebuah class</u>.</br>
+![objek](https://github.com/user-attachments/assets/af0bcfb1-6c85-46c7-ac60-7d50e15a1a97)
 </p>
 
 <p>
@@ -22,6 +23,7 @@ Class adalah <u><i>blueprint</i> atau template yang digunakan untuk membuat obje
 <li>Public: Dapat diakses dari mana saja.</li>
 <li>Private: Hanya dapat diakses dalam kelas itu sendiri.</li>
 <li>Protected: Dapat diakses oleh kelas itu sendiri dan kelas turunannya.</li>
+![image](https://github.com/user-attachments/assets/c2041d89-12ef-4ed5-bad6-9a1a2a57e058)
 </p>
 
 <p>
