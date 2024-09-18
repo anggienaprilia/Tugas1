@@ -29,12 +29,10 @@ Class adalah <u><i>blueprint</i> atau template yang digunakan untuk membuat obje
 <p><b>Prinsip OOP</b>
 <br>1. <i>Encapsulation</i> (Enkapsulasi): </br>
 Prinsip ini bertujuan untuk <u>membungkus data (atribut) dan metode (fungsi) yang memanipulasi data tersebut</u> dalam satu unit yang disebut class, serta mengontrol akses ke data tersebut. Enkapsulasi memungkinkan pengguna untuk membatasi akses langsung ke atribut dari luar class, dengan menyediakan mekanisme yang aman dan terkontrol untuk mengakses dan mengubah nilai atribut.<br>
-
 <br>Tujuan Utama Enkapsulasi</br>
 a) Menyembunyikan detail implementasi.<br>
 b) Mencegah manipulasi data yang tidak diinginkan.<br>
 c) Keamanan dan integritas data.<br>
-
 <br>Tingkat akses dalam Enkapsulasi</br>
 - Public: Dapat diakses dari mana saja.<br>
 - Private: Hanya dapat diakses dalam kelas itu sendiri.<br>
