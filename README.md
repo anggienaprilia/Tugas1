@@ -29,5 +29,5 @@ Class adalah <u><i>blueprint</i> atau template yang digunakan untuk membuat obje
 <p>
 4. Metode <i>(Method)</i>
 Metode adalah fungsi yang didefinisikan atau dilakukan di dalam sebuah class.
-![image](https://github.com/user-attachments/assets/930ee3e9-0664-4e47-a0e2-e854b9ff81f6)
+  ![image](https://github.com/user-attachments/assets/930ee3e9-0664-4e47-a0e2-e854b9ff81f6)
 </p>
