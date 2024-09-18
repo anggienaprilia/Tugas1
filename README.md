@@ -114,7 +114,6 @@ Tujuan Abstraksi</br>
 <br>Penjelasannya:
 - $buku1 = new Buku("Pemrograman PHP", "Andi Prasetyo"); => Menunjukkan bahwa terdapat penambahan objek bernama 'buku1' pada kelas 'Buku' dengan nilai (value) untuk properti judul berisi Pemrograman PHP, dan properti penulis berisi Andi Prasetyo.
 - echo $buku->getJudul(); => Menunjukkan metode getJudul() dipanggil pada objek $buku1. Metode getJudul() ini akan mengembalikan judul buku, sehingga yang akan ditampilkan dari pemanggilan meotde ini adalah nilai judul buku yaitu Pemrograman PHP.
-<br>
 <hr>
 
 # Jobsheet1
