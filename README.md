@@ -1,4 +1,10 @@
-<H3><b><u>Pemrograman Berorientasi Objek (OOP)</u></b></H3>
+<b>
+Nama   : Anggie Nurul Aprilia <br>
+Kelas  : TI 2D <br>
+NPM    : 230202074
+</b>
+
+<h2><b><u>Pemrograman Berorientasi Objek (OOP)</u></b></h2>
 
 <p>Object-Oriented Programming (OOP) adalah paradigma pemrograman yang berfokus pada konsep objek. Penggunaan kelas dan objek adalah inti dari pemrograman berorientasi objek (OOP).</p>
 
@@ -15,7 +21,9 @@ Class adalah <u><i>blueprint</i> atau template yang digunakan untuk membuat obje
 
 <p>
 2. Objek <i>(Object)</i>
-<br>Objek adalah <u>instansi dari sebuah class</u>.</br>
+<br>Objek adalah <u>instansi dari sebuah class</u>. Instansiasi objek adalah proses pembuatan objek berdasarkan cetakan atau blueprint yang disebut kelas (class) dalam pemrograman berorientasi objek (OOP). Ketika sebuah objek diinstansiasi, sebuah instance baru dari kelas tersebut dibuat di memori, dan properti serta metode kelas tersebut dapat diakses melalui objek tersebut.
+</br>
+
 ![objek](https://github.com/user-attachments/assets/af0bcfb1-6c85-46c7-ac60-7d50e15a1a97)
 </p>
 
@@ -32,6 +40,7 @@ Class adalah <u><i>blueprint</i> atau template yang digunakan untuk membuat obje
 
 ![image](https://github.com/user-attachments/assets/930ee3e9-0664-4e47-a0e2-e854b9ff81f6)
 </p>
+<hr>
 
 <p><b>Prinsip OOP</b>
 <br>1. <i>Encapsulation</i> (Enkapsulasi): </br>
@@ -91,3 +100,17 @@ b) Metode Overloading.<br>
 
 <p>Kelas abstrak harus diturunkan agar dapat digunakan, karena kelas abstrak tidak bisa diinstansiasi secara langsung. Dengan kata lain, objek tidak dapat dibuat dari kelas abstrak itu sendiri. Kelas abstrak hanya berfungsi sebagai kerangka atau template bagi kelas turunan <i>(subclass)</i>.</p>
 </p>
+<hr>
+
+<b>Metode Getter dan Setter pada OOP</b>
+<br>Dalam OOP, terlebih ketika menggunakan prinsip encapsulation (pembungkusan), dimana data dibungkus dengan modifier private agar tidak bisa diakses secara langsung dari luar class, biasanya terdapat sebuah metode yang sering digunakan. Metode tersebut adalah metode setter dan getter. 
+
+<br> Metode yang tugasnya untuk mengambil dan mengisi data ke dalam objek, pada kenyataan metode setter dan getter memiliki fungsi yang berbeda. Metode setter memungkinkan untuk menetapkan atau mengubah nilai pada properti dengan aturan tertentu. Sedangkan, metode getter memungkinkan untuk membaca atau mendapatkan nilai dari properti dengan modifier private atau terproteksi sebuah kelas.
+
+<br> Contoh penggunaan setter dan getter pada kelas Buku:
+![image](https://github.com/user-attachments/assets/5d419d33-4dcc-4532-8629-f3bfa9383aa2)
+<br>Pada coding diatas, metode getter (get) digunakan untuk mendapatkan data dari judul (properti/atribut) dalam kelas Buku, dan metode setter (set) digunakan untuk menetapkan atau mengubah nilai(value) dari properti judul. 
+
+<br>Penjelasannya:
+- $buku1 = new Buku("Pemrograman PHP", "Andi Prasetyo"); => Menunjukkan bahwa terdapat penambahan objek bernama 'buku1' pada kelas 'Buku' dengan nilai
+<br>
