@@ -15,14 +15,15 @@ Class adalah <u><i>blueprint</i> atau template yang digunakan untuk membuat obje
 2. Objek <i>(Object)</i>
 <br>Objek adalah <u>instansi dari sebuah class</u>.</br>
 </p>
-![image](https://github.com/user-attachments/assets/4ed51a9f-e01f-4e75-b5a1-9b2c67ed1152)
+![Capture](https://github.com/user-attachments/assets/6c1b99be-5e9e-489c-96fb-38091e46f823)
 
 3. Atribut <i>(Properti)</i>
 <br>Atribut adalah variabel yang didefinisikan dalam sebuah <u>class dan keadaan dari objek</u> yang dibuat dari class tersebut. Dalam atribut terdapat <u>3 jenis Aksesibilitas <i>(Visibility)</i></u> yang biasa digunakan, diantaranya adalah:
 <li>Public: Dapat diakses dari mana saja.</li>
 <li>Private: Hanya dapat diakses dalam kelas itu sendiri.</li>
-<li>Protected: Dapat diakses oleh kelas itu sendiri dan kelas turunannya.</li></br>
-![image](https://github.com/user-attachments/assets/81e07b64-0306-46e0-abc7-03b7dad7462c)
+<li>Protected: Dapat diakses oleh kelas itu sendiri dan kelas turunannya.</li>
+![objek](https://github.com/user-attachments/assets/c93b2446-c200-4c0a-87cd-3a280dfd084e)
+</br>
 
 4. Metode <i>(Method)</i>
 Metode adalah fungsi yang didefinisikan atau dilakukan di dalam sebuah class.
